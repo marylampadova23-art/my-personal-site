@@ -1,6 +1,7 @@
 site_name: Мария Лампадова
 site_description: Персональный сайт Марии Лампадовой
 site_author: Лампадова Мария Витальевна
+site_url: https://marylampadova23-art.github.io/my-personal-site/
 
 theme:
   name: material
