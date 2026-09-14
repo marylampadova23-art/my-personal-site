@@ -1,0 +1,37 @@
+site_name: Мария Лампадова
+site_description: Персональный сайт Марии Лампадовой
+site_author: Лампадова Мария Витальевна
+
+theme:
+  name: material
+  icon:
+    logo: material/account-circle
+  palette:
+    primary: indigo
+    accent: deep purple
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.share
+
+plugins:
+  - search
+
+nav:
+  - Главная: index.md
+  - О себе: about.md
+  - Проекты: projects.md
+  - Контакты: contacts.md
+
+copyright: © 2026 Мария Лампадова
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/marylampadova23-art
+      name: GitHub
+    - icon: fontawesome/brands/docker
+      link: https://hub.docker.com/u/marylampadova
+      name: Docker Hub
