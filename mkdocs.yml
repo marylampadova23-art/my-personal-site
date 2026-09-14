@@ -5,8 +5,8 @@ site_url: https://marylampadova23-art.github.io/my-personal-site/
 
 theme:
   name: material
-  icon:
-    logo: material/account-circle
+  logo: images/logo.svg
+
   palette:
     primary: indigo
     accent: deep purple
@@ -24,6 +24,7 @@ nav:
   - Главная: index.md
   - О себе: about.md
   - Проекты: projects.md
+  - Резюме: resume.md
   - Контакты: contacts.md
 
 copyright: © 2026 Мария Лампадова
